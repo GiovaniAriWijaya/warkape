@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f0f8ff;
+}
+
+#project {
+  background-color: #f0f8ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbarid {
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
